@@ -25,7 +25,7 @@ That's it — the extension will now run in the background and remove any sponso
   - It deletes that entire item 🥀
   - Only deletes one at a time, so it's gentle 😭
 
-Runs every 1 second so even if YouTube reloads stuff in — it still slays 💅
+Runs every 1 second so even if YouTube reloads stuff in
 
 ---
 
